@@ -1,0 +1,2 @@
+selected_supervised_model,test_accuracy,macro_precision,macro_recall,macro_f1,cv_accuracy_mean,cv_accuracy_std,kmeans_k,kmeans_silhouette,kmeans_adjusted_rand_index_posthoc,missing_values,duplicate_feature_rows
+Logistic Regression,0.9722222222222222,0.9777777777777779,0.9666666666666667,0.9709618874773139,0.9790640394088669,0.027713464392187602,3,0.2848589191898987,0.8974949815093207,0,0
